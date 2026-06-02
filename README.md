@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI/ML-focused Computer Science student at SR University with hands-on internship experience in machine <br>learning, web development, and Azure cloud computing. Proficient in Python, JavaScript, and SQL; seeking a <br>software/IT role to apply strong technical and problem-solving skills. 
+AI/ML-focused Computer Science student at SR University with hands-on internship experience in machine <br>learning, web development, and Azure cloud computing. Proficient in Python, JavaScript, and SQL; seeking a <br>software/IT role to apply strong technical and problem-solving skills.
 
 
 ## 🌐 Socials:
